@@ -42,6 +42,6 @@ mth174 = gradetomarks(mth174)*4
 pes318= str(input("Please enter your grade in PES318: "))
 pes318 = gradetomarks(pes318)*3
 
-gpa = (Che+cse111+Cse326+ece249+ece279+int108+mth174+pes318)/24
+gpa = (Che+cse111+Cse326+ece249+ece279+int108+mth174+pes318)/24 
 
 print("your calculated gpa is :",gpa)
