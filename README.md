@@ -15,4 +15,4 @@ can even use this if u have a reappear, just put the expected grade instead and 
 .
 .
 .
-bhai plij follow krlo meko :)
+bhai plij follow krlo meko :) 
